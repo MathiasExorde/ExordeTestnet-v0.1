@@ -1,1 +1,1 @@
-- Exorde testnet, deployed on SKALE!
+Staging testnet, not for contributors. Only developers
